@@ -253,15 +253,11 @@ I'm always interested in collaborating on:
 
 ### 💭 Current Status
 
-```typescript
-const gautham = {
-    location: "Doha, Qatar 🇶🇦",
-    status: "Permanent Resident - Visa Transferable",
-    currentFocus: ["Cybersecurity", "Ethical Hacking", "Secure Development"],
-    lookingFor: "Cybersecurity roles | Penetration Testing | Security Engineering",
-    funFact: "I secure systems by thinking like an attacker 🎯"
-};
-```
+📍 **Location:** Doha, Qatar 🇶🇦  
+✅ **Visa Status:** Permanent Resident - Transferable  
+🎯 **Current Focus:** Cybersecurity • Ethical Hacking • Secure Development  
+🔍 **Looking For:** Cybersecurity Roles | Penetration Testing | Security Engineering  
+💡 **Fun Fact:** I secure systems by thinking like an attacker 🎯
 
 </div>
 
