@@ -187,14 +187,14 @@
 - **Community Builder** - ACM Ambassador and Student Chapter Chairperson
 
 ### 💡 Core Competencies
-```python
-skills = {
-    "security": ["Penetration Testing", "Vulnerability Assessment", "Threat Detection"],
-    "development": ["Full Stack", "Mobile Development", "API Design", "AI/ML Integration"],
-    "leadership": ["Team Management", "Project Coordination", "Mentorship", "Technical Leadership"],
-    "soft_skills": ["Problem-Solving", "Critical Thinking", "Communication", "Adaptability"]
-}
-```
+
+**🔐 Security:** Penetration Testing • Vulnerability Assessment • Threat Detection • Ethical Hacking
+
+**💻 Development:** Full Stack • Mobile Development • API Design • AI/ML Integration
+
+**👥 Leadership:** Team Management • Project Coordination • Mentorship • Technical Leadership
+
+**🧠 Soft Skills:** Problem-Solving • Critical Thinking • Communication • Adaptability
 
 ---
 
